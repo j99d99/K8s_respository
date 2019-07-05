@@ -10,7 +10,7 @@ git push -u origin master
 git remote add origin https://github.com/j99d99/K8s_respository.git
 git push -u origin master
 
-python```
+```
 docker pull registry.cn-hangzhou.aliyuncs.com/mj_k8s/k8s:v1.3.1
 docker pull registry.cn-hangzhou.aliyuncs.com/mj_k8s/k8s:v3.1
 docker pull pull registry.cn-hangzhou.aliyuncs.com/mj_k8s/k8s:v3.3.10
