@@ -6,11 +6,6 @@ git commit -m "first commit"
 git remote add origin https://github.com/j99d99/K8s_respository.git
 git push -u origin master
 
-<<<<<<< HEAD
-=======
-xxxxxxx
-
->>>>>>> bc0a5edf74604d3776da3dbd5439aaf44fb39dde
 
 
 git remote add origin https://github.com/j99d99/K8s_respository.git
