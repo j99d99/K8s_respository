@@ -8,6 +8,8 @@ git push -u origin master
 
 
 
+
+
 git remote add origin https://github.com/j99d99/K8s_respository.git
 git push -u origin master
 
